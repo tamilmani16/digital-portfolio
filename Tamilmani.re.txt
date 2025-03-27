@@ -1,0 +1,10 @@
+personal details
+
+name:Tamilmani.S
+date of birth:16.04.2006
+gender:female
+
+education
+
+department:BCA
+university:Bharathidhasan university
